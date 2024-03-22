@@ -1,0 +1,37 @@
+Skiovox Helper
+
+Chrome extension source viewer
+
+Chromebook Recovery Utility
+
+Disconnect
+
+HackBar
+
+LockDown Browser
+
+ModHeader - Modify HTTP headers
+
+Nimbus Screenshot & Screen Video Recorder
+
+OWASP Penetration Testing Kit
+
+Picture-in-Picture Extension (by Google)
+
+Request Maker
+
+Scrnli Screen Recorder & Screen Capture App
+
+Simple Translate: Select to Translate
+
+Stealthy
+
+Surfshark VPN Extension
+
+Tampermonkey
+
+Toggle Fullscreen
+
+uBlock Origin
+
+User Agent Switcher, URL sniffer
